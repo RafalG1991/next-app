@@ -1,5 +1,10 @@
+import {Counter} from "@/app/components";
+
 export default function Home() {
   return (
-    <h1>Hello world</h1>
+    <>
+      <Counter />
+      <h1>Hello world</h1>
+    </>
   );
 }
