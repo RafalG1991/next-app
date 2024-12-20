@@ -1,5 +1,5 @@
 import {Counter} from "@/app/components/Counter";
-import {Container} from "@/app/components/Container/Container";
+import {Container} from "@/app/components/Container";
 
 export default function Home() {
   return (
