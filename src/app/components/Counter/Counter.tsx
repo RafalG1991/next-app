@@ -1,4 +1,4 @@
-'use client';
+'use client'; //16:07
 import styles from "./style.module.scss";
 import {useState} from "react";
 
